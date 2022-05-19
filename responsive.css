@@ -1,0 +1,1044 @@
+@media (max-width: 1536px) {
+	.bnr_hdg {
+		font-size: 3.25rem;
+	}
+	.bnr_para {
+		font-size: 1.85rem;
+	}
+	.navbar-collapse>.row>* {
+		padding: 0 0.35rem;
+	}
+	.bnr_cap_para {
+		font-size: 1.5rem;
+	}
+	.sec_i_1_ftr_btn {
+		-webkit-transform: translateX(60px);
+		        transform: translateX(60px);
+	}
+	.sec_i_4_body .card_hdg {
+		font-size: 1.75rem;
+	}
+	.sec_i_4_body>.row {
+		gap: 0
+	}
+	.sec_i_4_body>.row>* {
+		margin: 0;
+	}
+	.sec_i_4_hdr {
+		margin-top: 2rem;
+		margin-bottom: 1rem;
+	}
+	.sec_i_5_hdr,
+	.sec_i_6_hdr,
+	.sec_i_7_hdr {
+		margin-bottom: 2rem;
+	}
+	.sec_i_6 .MS-controls {
+		margin-top: 1rem;
+	}
+	.sec_i_9_hdr {
+		top: 3rem;
+	}
+	.sec_ftr_body>.row {
+		margin: 2rem 0 0;
+	}
+}
+
+@media (max-width: 1440px) {
+	.navbar-dark .navbar-nav .nav-link {
+		font-size: 0.9rem;
+	}
+	.sec_i_1 {
+		min-height: 100vh;
+	}
+	.sec_i_1_ftr_sticky {
+		bottom: 4.5rem;
+	}
+	.ftr_links_txt ul li a {
+		font-size: 1rem;
+	}
+}
+
+@media (max-width: 1366px) {
+	.ambulancecon {
+		display: none;
+	}
+	.sec_i_3,
+	.sec_i_4,
+	.sec_i_5,
+	.sec_i_6,
+	.sec_ftr footer {
+		min-height: auto;
+		padding: 3rem 0;
+	}
+	.sec_ftr footer {
+		padding-bottom: 0;
+	}
+	.sec_i_8_hdr,
+	.sec_i_8_body>div:first-child {
+		margin-bottom: 2rem;
+	}
+	.sec_i_7_hdr {
+		margin: 0;
+	}
+	.sec_i_8_body>div:first-child ul li {
+		-webkit-transform: scale(0.8);
+		        transform: scale(0.8);
+		width: 200px;
+	}
+	.sec_i_8_body>div:first-child ul {
+		gap: 0;
+	}
+	.sec_i_8_body>div:last-child ul li span {
+		margin-top: 0.5rem;
+		font-size: 1rem;
+		line-height: 1rem;
+	}
+	.ftr_contact_sec .ftr_vert_list ul li {
+		font-size: 1rem;
+	}
+	.ftr_links_title {
+		margin-bottom: 1.25rem;
+	}
+	.ftr_links_txt ul {
+		gap: 0.125rem;
+		font-size: 1rem;
+	}
+	.sec_hdg {
+		font-size: 2.5rem;
+	}
+	.sec_i_9 {
+		padding: 3rem 0;
+	}
+	.sec_i_9_body .carousel-item {
+		min-height: 650px;
+	}
+	.sec_i_9_patientcard .para {
+		font-size: 1rem;
+	}
+	.sec_i_9_patientcard>div {
+		min-height: 300px
+	}
+	.sec_i_9_doctorcard {
+		bottom: -17rem
+	}
+	.sec_i_9_patientcard,
+	.sec_i_9_doctorcard {
+		max-width: 650px
+	}
+}
+
+@media (max-width: 1280px) {
+	.sec_i_4_body .card_hdg,
+	.bnr_para {
+		font-size: 1.5rem;
+	}
+	.main_bnr_txt {
+		max-width: 420px;
+	}
+	.bnr_hdg {
+		font-size: 2.5rem;
+	}
+	.sec_i_1_bnr_txt {
+		left: 24%
+	}
+	.phonecon {
+		display: none;
+	}
+	.emergetxt ul li>a {
+		font-size: 0.9rem;
+	}
+	.sec_i_2_img_capt .capt_hdg {
+		font-size: 1.5rem;
+		margin-left: 0.5rem;
+	}
+	.sec_i_3_left_txttime {
+		margin: 2rem 0;
+	}
+	.sec_i_3_right .carousel-indicators button span {
+		font-size: 1rem;
+		font-weight: bold;
+	}
+	.sec_i_3_left_txttime ul li {
+		font-size: 1rem;
+	}
+	.sec_i_3_right .carousel-indicators button .special_icon {
+		width: 55px;
+		min-height: 55px;
+		background-size: 27px
+	}
+	.sec_i_5_card_price_striked:before,
+	.sec_i_5_card_price_striked:after {
+		left: 10px;
+	}
+	.sec_i_5_card_price span:first-child {
+		/* padding-left: 0.5rem; */
+		padding-right: 0.5rem;
+	}
+	.ftr_links_txt ul li a:before {
+		background-size: 15px;
+		width: 15px;
+		min-height: 15px;
+	}
+	.ftr_contact_links .sec_sub_sm_hdg {
+		font-size: 1.25rem;
+	}
+	.ftr_brand img {
+		width: 205px;
+	}
+}
+
+@media (max-width: 1152px) {
+	.emergetxt {
+		display: none;
+	}
+	.sec_i_1 {
+		min-height: auto;
+	}
+	.sec_i_1_ftr_sticky {
+		position: unset;
+	}
+	.sec_i_1_ftr_item>div:last-child {
+		max-width: 100%;
+	}
+	.sec_i_1_ftr_item>div:first-child {
+		max-width: 50px;
+	}
+	.sec_i_1_ftr_item {
+		gap: 0.5rem;
+		padding: 1rem 0.5rem;
+	}
+	.sec_i_1_ftr_btn {
+		-webkit-transform: translateX(110px);
+		        transform: translateX(110px);
+	}
+	.sec_i_2 {
+		min-height: auto;
+	}
+	.sec_hdg,
+	.sec_i_4_title .sec_hdg,
+	.sec_i_3 .sec_hdg {
+		font-size: 2.25rem;
+	}
+	.sec_i_3_left_txtdesc .sec_sub_hdg,
+	.sec_i_7_left .sec_sub_hdg,
+	.sec_i_8_body>div:last-child .sec_sub_hdg,
+	.ftr_links_title .sec_sub_hdg {
+		font-size: 1.75rem;
+	}
+	.sec_i_3_left_txttime .sec_sub_sm_hdg {
+		font-size: 1.5rem;
+	}
+	.sec_i_3_left_txtlink .btn_d,
+	.sec_i_4_body .card_hdg,
+	.bnr_para,
+	.sec_i_2_img_capt .capt_hdg,
+	.sec_i_3_right .sec_sub_hdg {
+		font-size: 1.25rem;
+	}
+	.sec_i_2 .para {
+		font-size: 1.25rem;
+		line-height: 1.85rem;
+	}
+	.sec_i_4_title span,
+	.sec_i_9_title span {
+		font-size: 1.25rem;
+		line-height: 1rem;
+	}
+	.bnr_cap_para {
+		font-size: 1rem;
+		line-height: 1.25rem;
+	}
+	.sec_i_1_ftr_btn .btn_sqr {
+		font-size: 1rem;
+		padding: 0.5rem 1rem;
+	}
+	.sec_i_4_card_txtcon {
+		gap: 1rem;
+		padding-left: 0.5rem;
+		-webkit-transform: translateY(-1.8rem);
+		        transform: translateY(-1.8rem);
+	}
+	.sec_i_4_card_txtcon>div:first-child {
+		padding: 0.5rem;
+		max-width: 60px;
+	}
+	.sec_i_4_hdr {
+		margin-top: 2rem;
+		margin-bottom: 3rem;
+	}
+	.sec_i_4_title:after {
+		top: -30px;
+	}
+	.sec_i_5_card_price span {
+		font-size: 1rem;
+		padding: 0.5rem 1.5rem;
+	}
+	.sec_i_5_card_price {
+		position: unset;
+		margin-top: 2rem;
+	}
+	.sec_i_5_card_price_striked:before,
+	.sec_i_5_card_price_striked:after {
+		left: 20px;
+		width: 70px;
+		top: 18px;
+	}
+	.sec_i_5_card_price span:first-child {
+		padding-right: 1.5rem;
+	}
+	.sec_i_5_card_price_hlt {
+		border-radius: 36px;
+	}
+	.sec_i_5_card_txt ul li:last-child {
+		margin-top: 0.75rem;
+	}
+	.sec_i_9_patientcard .para {
+		max-width: 100%;
+	}
+	.card_capt_name {
+		line-height: 2rem;
+		font-size: 1.25rem;
+	}
+	.card_capt_title {
+		font-size: 1rem;
+	}
+	.sec_i_9_card_capt img {
+		width: 140px;
+	}
+	.sec_i_9_card_capt {
+		right: 0;
+	}
+	.sec_i_9_patientcard,
+	.sec_i_9_doctorcard {
+		max-width: 600px;
+	}
+	.sec_ftr_body>.row {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		gap: 1rem;
+	}
+	.ftr_links_group,
+	.ftr_vert_line {
+		max-width: 80%;
+	}
+	.ftr_vert_line:before {
+		width: 100%;
+		height: 2px;
+		max-width: 100%;
+	}
+	.ftr_contact_sec>.row>div:first-of-type {
+		display: none;
+	}
+}
+
+@media (max-width: 1024px) {}
+
+@media (max-width: 991.98px) {
+	.offcanvas-collapse {
+		position: fixed;
+		top: 56px;
+		/* Height of navbar */
+		top: 0;
+		/* Height of navbar */
+		bottom: 0;
+		left: 100%;
+		width: 300px;
+		height: -webkit-max-content;
+		height: -moz-max-content;
+		height: max-content;
+		padding-right: 0;
+		padding-left: 0;
+		overflow-y: auto;
+		visibility: hidden;
+		background-color: #343a40;
+		-webkit-transition: visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
+		transition: visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
+		transition: transform .3s ease-in-out, visibility .3s ease-in-out;
+		transition: transform .3s ease-in-out, visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
+		z-index: 1;
+	}
+	.offcanvas-collapse.open {
+		visibility: visible;
+		-webkit-transform: translateX(-100%);
+		        transform: translateX(-100%);
+		z-index: 1;
+	}
+	.offcanvas-collapse>ul {
+		margin: 0;
+	}
+	.navbar-dark .navbar-nav .nav-link {
+		font-size: 1rem;
+		color: #fff;
+		padding: 1.5rem 1rem;
+		background-color: #343a40;
+		border-color: #f0f9fe;
+	}
+	.navbar-dark .navbar-nav .nav-link.active,
+	.navbar-dark .navbar-nav .nav-link:active,
+	.navbar-dark .navbar-nav .nav-link:focus,
+	.navbar-dark .navbar-nav .nav-link:hover {
+		color: #fff;
+		border-bottom: 2px solid var(--l_orange);
+		background: #213f9a;
+	}
+	.navbar-dark .navbar-toggler {
+		color: rgba(255, 255, 255, .55);
+		border-color: rgba(255, 255, 255, .1);
+		z-index: 2;
+		background: #fff;
+		padding: 0.125rem;
+		width: 40px;
+		height: 40px;
+		border-radius: 50%;
+		display: -ms-grid;
+		display: grid;
+		place-content: center;
+	}
+	.sec_i_1_bnr_txt {
+		position: unset;
+		-webkit-transform: unset;
+		        transform: unset;
+	}
+	.main_bnr_txt>div {
+		margin: 2rem 0;
+	}
+	.sec_i_1_ftr_items {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-ms-flex-wrap: wrap;
+		    flex-wrap: wrap;
+	}
+	.vr_sm {
+		width: 100%;
+		height: 1px;
+		margin-right: 0rem;
+		margin-left: 0;
+	}
+	.sec_i_1_ftr_btn {
+		-webkit-transform: unset;
+		        transform: unset;
+		max-width: 100%;
+	}
+	.sec_i_1_ftr>.container {
+		-webkit-box-align: center;
+		    -ms-flex-align: center;
+		            -ms-grid-row-align: center;
+		        align-items: center;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		max-width: 100%;
+		width: 100%;
+		padding: 0;
+	}
+	.sec_i_1_ftr_sticky {
+		position: absolute;
+		right: 8rem;
+		bottom: 3rem;
+		width: -webkit-max-content;
+		width: -moz-max-content;
+		width: max-content;
+		max-width: 100%;
+	}
+	.sec_i_1_ftr {
+		background-image: -webkit-linear-gradient(left, var(--l_blue) 100%, #fff0 100%);
+		background-image: linear-gradient(to right, var(--l_blue) 100%, #fff0 100%);
+	}
+	.sec_i_1_ftr_btn .btn_sqr {
+		width: 100%;
+	}
+	.sec_i_1_ftr_item {
+		gap: 1rem;
+		padding: 1rem;
+	}
+	.sec_i_2_txt {
+		max-width: 100%;
+	}
+	.sec_hdg,
+	.sec_i_4_title .sec_hdg,
+	.sec_i_3 .sec_hdg {
+		line-height: 2.5rem;
+	}
+	.sec_i_3_left_txtlink .btn_d,
+	.sec_i_4_body .card_hdg,
+	.bnr_para,
+	.sec_i_2_img_capt .capt_hdg,
+	.sec_i_3_right .sec_sub_hdg {
+		line-height: 2rem;
+	}
+	.sec_i_2_img_capt {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.sec_i_3_left .carousel-item>.row {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		gap: 1rem;
+	}
+	.sec_i_3_left_img {}
+	.sec_i_3_left_img>div {
+		max-width: 250px;
+	}
+	.sec_i_3_left .carousel-inner {
+		margin-top: 3rem;
+	}
+	.sec_i_5_card_price {
+		display: -webkit-inline-box;
+		display: -ms-inline-flexbox;
+		display: inline-flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		margin-top: 0rem;
+	}
+	.sec_i_7_left,
+	.sec_i_7_right {
+		padding: 1rem 0;
+	}
+	.sec_i_7_right {
+		max-height: 250px;
+	}
+	.sec_i_3_left_txtdesc .sec_sub_hdg,
+	.sec_i_7_left .sec_sub_hdg,
+	.sec_i_8_body>div:last-child .sec_sub_hdg,
+	.ftr_links_title .sec_sub_hdg {
+		font-size: 1.5rem;
+	}
+	.sec_i_8_body>div:last-child ul li {
+		-webkit-box-flex: 1;
+		    -ms-flex: 1 0 150px;
+		        flex: 1 0 150px;
+	}
+	.sec_i_9_patientcard,
+	.sec_i_9_doctorcard {
+		max-width: 100%;
+	}
+	.sec_i_9_doctorcard {
+		position: unset;
+		margin-top: 10rem;
+	}
+	.sec_i_9_body .carousel-item {
+		min-height: 100%;
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.sec_i_9_hdr {
+		position: unset;
+	}
+	.sec_i_9_hdr {
+		margin-top: 0;
+	}
+	.ftr_contact_links>.row>div {
+		margin: 0.5rem 0;
+	}
+	.ftr_contact_links>.row>div:nth-child(1),
+	.ftr_contact_links>.row>div:nth-child(2) {
+		margin-top: 0;
+	}
+	.ftr_contact_links>.row>div:nth-child(3),
+	.ftr_contact_links>.row>div:nth-child(4) {
+		margin-bottom: 0;
+	}
+}
+
+@media(max-width:991px){
+	.card-special{
+		margin: 0;
+	}
+	.flex-tab{
+		margin: 10px 0px;
+	}
+	.pic-area1{
+		bottom:-85px;
+	}
+	#special{
+		height: auto;
+	}
+	.new-special{
+		margin: 10px 0px;
+	}
+    .item{
+		margin: 0;
+		width: 48% !important;
+	}
+	.logo-space{
+		margin: 0;
+		width:24% !important;
+	}
+	#mixedSlider .MS-content .item .imgTitle{
+		text-align: center;
+	}
+	#mixedSlider .MS-content .item .imgTitle img{
+		width: 45%;
+	}
+	.overview-section{
+		margin-top:35px;
+		margin-bottom:0;
+	}
+	.over-view-pic{
+		padding: 5px;
+		margin: 0;
+	}
+	.over-view-pic img{
+		padding: 5px;
+	}
+	.overview-image-section{
+		margin-bottom:-30px;
+	}
+	.tab-sec{
+		margin: 45px 0px;
+	}
+	.overview-image-text{
+		bottom:90px;
+	}
+	#scrollimage .MS-controls button {
+		font-size: 30px;
+	  }
+	  #mixedSlider .MS-content .item{
+		padding: 0px 13px;
+	}
+	.text-tab h3{
+		font-size: 14px;
+	}
+	.banner-image{
+		top: 9.5%;
+		right:14%;
+	}
+	.banner-image img{
+		width: 220px;
+	}
+	.specialist-sec{
+		width: 100%;
+	}
+}
+@media (max-width: 768px) {
+	.sec_i_1_ftr_sticky {
+		right: 3rem;
+	}
+	.sec_i_2 .container>.row {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		gap: 2rem;
+	}
+	.sec_i_2 .container>.row>div {
+		width: 100%;
+	}
+	.sec_i_2_img_capt {
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+	.sec_i_2_img>div:first-child {
+		max-width: 450px;
+		margin: 3rem auto;
+		margin-top: 0;
+	}
+	.sec_i_2_txt {
+		padding: 0;
+	}
+	.sec_i_2 {
+		padding: 3rem 0;
+	}
+	.sec_i_7,
+	.sec_i_8 {
+		min-height: auto;
+		padding: 3rem
+	}
+	#scrollimage .MS-controls button {
+		font-size: 20px;
+	  }
+	  #scrollimage .MS-controls .MS-right {
+		right: -10px;
+	  }
+	  .main-tab{
+		  margin-bottom:100px;
+	  }
+	  .banner-image{
+		  right: 0;
+		  top:13%;
+	  }
+	  .banner-image img{
+		  width:150px;
+		  height: auto;
+	  }
+	  /* .specialist-text {
+		  position: relative;
+		  z-index: 999;
+	  } */
+}
+
+@media (max-width: 540px) {
+	.sec_i_1_ftr_sticky {
+		position: unset;
+		margin: 0;
+		width: 100%;
+	}
+	
+	.sec_i_1_ftr {
+		background-image: -webkit-linear-gradient(left, var(--fff) 100%, #fff 100%);
+		background-image: linear-gradient(to right, var(--fff) 100%, #fff 100%);
+	}
+	.sec_i_1_ftr_items>a {
+		background-color: var(--l_blue);
+		border: 2px solid var(--l_blue);
+	}
+	.sec_i_1_ftr_items>a:hover {
+		background-color: var(--l_orange);
+	}
+	.sec_i_1_ftr_items>.vr_sm {
+		display: none;
+	}
+	.sec_i_1_ftr_items {
+		width: calc(100% - 1rem);
+	}
+	.sec_i_1_ftr_items,
+	.sec_i_1_ftr>.container {
+		gap: 1rem;
+	}
+	.sec_i_1_ftr_item {
+		width: 350px;
+		height: 100px;
+	}
+	.sec_i_1_ftr_btn .btn_sqr {
+		width: auto;
+		margin: 0rem 0.5rem;
+	}
+	.sec_i_3_left .carousel {
+		-webkit-box-align: start;
+		    -ms-flex-align: start;
+		            -ms-grid-row-align: start;
+		        align-items: start;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.sec_i_3_right .carousel-indicators button span,
+	.sec_i_3_right .sec_sub_hdg,
+	.sec_i_4_btn {
+		display: none;
+	}
+	.sec_i_3_right .carousel-indicators {
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		gap: 1rem;
+	}
+	.sec_i_3_right>div:last-child {
+		text-align: start;
+	}
+	.sec_i_3_left_txtlink .btn_d {
+		font-weight: 400;
+		padding: 0.375rem 2.5rem;
+	}
+	.sec_i_4_card {
+		text-align: center;
+	}
+	.sec_i_4_card_txtcon {
+		gap: 1rem;
+		padding-left: 0.5rem;
+		-webkit-transform: translateY(-1.8rem);
+		        transform: translateY(-1.8rem);
+		-webkit-box-align: end;
+		    -ms-flex-align: end;
+		            -ms-grid-row-align: end;
+		        align-items: end;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+	.sec_i_5_card_price_hlt {
+		border-radius: 0;
+		border-top-left-radius: 36px;
+		border-bottom-left-radius: 36px;
+	}
+	.sec_i_5_card_price {
+		position: absolute;
+		display: block;
+	}
+	.sec_i_5_card_img>img {
+		width: 100%;
+	}
+	.sec_i_5_body>.row {
+		gap: 1rem;
+	}
+	.sec_i_7_right {
+		max-height: 520px;
+	}
+	.sec_i_7_right>div {
+		gap: 1rem;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.sec_i_7,
+	.sec_i_8 {
+		padding: 2rem 0;
+	}
+	.ftr_links_txt ul {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-pack: left;
+		    -ms-flex-pack: left;
+		        justify-content: left;
+		-webkit-box-align: start;
+		    -ms-flex-align: start;
+		            -ms-grid-row-align: start;
+		        align-items: start;
+	}
+	.ftr_contact_links>.row>div {
+		width: 50%;
+	}
+	.ftr_btm_strap .container {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		gap: 1rem;
+		padding: 1rem 0;
+	}
+	.ftr_links_txt ul li a,
+	.ftr_contact_sec .ftr_vert_list ul li,
+	.ftr_btm_strap .para {
+		font-size: 0.9rem;
+	}
+	.ftr_btm_strap .para {
+		margin: 0;
+	}
+	.offcanvas-collapse {
+		width: 100%;
+		height: 100vh;
+	}
+	.navbar>.container-fluid {
+		margin: 0;
+	}
+	.sec_i_3_right .carousel-indicators [data-bs-target] {
+		margin: 0
+	}
+	.sec_i_3_right .carousel-indicators [data-bs-target]:nth-child(7) {
+		display: none;
+	}
+	.sec_i_9_patientcard>div {
+		min-height: auto;
+	}
+	.sec_i_9_patientcard .para {
+		line-height: 2rem;
+	}
+	.sec_ftr_title .sec_hdg>br {
+		display: none;
+	}
+	.sec_i_5_title .sec_hdg,
+	.sec_i_6_title .sec_hdg {
+		text-align: left;
+		font-weight: bold;
+	}
+	.sec_hdg,
+	.sec_i_7 .sec_hdg,
+	.sec_i_9_title .sec_hdg {
+		font-weight: bold;
+	}
+	.sec_i_2_img>div:first-child {
+		max-width: 100%;
+	}
+	.sec_i_8_body>div:first-child ul li {
+		-webkit-transform: scale(0.9);
+		        transform: scale(0.9);
+		width: 125px;
+	}
+	.ftr_links_group,
+	.ftr_vert_line {
+		max-width: 100%;
+		padding: 0;
+	}
+	.logo-space{
+		width:32% !important;
+	}
+	#scrollimage .MS-controls .MS-left{
+		right:30px !important;
+	}
+	.text-tab{
+		padding: 15px 5px;
+	}
+	.image-inner{
+		background-color: transparent;
+		padding: 0;
+		margin-bottom:15px;
+	}
+	.image-inner iframe{
+		height:280px;
+	}
+	.banner-image2 img{
+		object-fit: contain;
+		height: auto;
+	}
+	.banner-text{
+		left:1%;
+	}
+	.banner-text h2{
+		font-size:22px;
+	}
+	.banner-image img{
+		display: none;
+	}
+	.doctor-back{
+		padding: 20px 0px;
+	}
+	.doctor-text h2{
+		margin-bottom:25px;
+	}
+}
+
+@media (max-width: 425px) {
+	#carouselAHIndexBanner .carousel-item>img {
+		width: 100vw;
+		height: 300px;
+		-o-object-fit: cover;
+		   object-fit: cover;
+		-o-object-position: right;
+		   object-position: right;
+	}
+	.sec_i_2_img_capt {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		gap: 1rem;
+	}
+	.sec_i_9_card_capt img {
+		width: 120px;
+	}
+	.sec_i_9_patientcard {
+		padding: 1.5rem;
+	}
+	.item{
+		width:94% !important;
+	}
+	.logo-space{
+		width: 50% !important;
+	}
+	#scrollimage .MS-content{
+		margin: 0 !important;
+	}
+	#scrollimage .MS-content .item .imgTitle img{
+		margin-left: 0 !important;
+	}
+	.text-tab h3{
+		font-size:14px;
+	}
+	.text-tab p{
+		font-size: 13px;
+	}
+	.image-text{
+		margin: 0;
+	}
+	.text-special{
+		margin-left:10px;
+	}
+	#back-sec{
+		padding:0;
+	}
+	.specialist-sec{
+		padding: 15px;
+	}
+}
+
+@media (max-width: 414px) {
+	.sec_i_3_right .carousel-indicators [data-bs-target]:nth-child(6) {
+		display: none;
+	}
+	.ftr_contact_links>.row>div {
+		width: 100%;
+	}
+	.sec_i_8_body>div:first-child ul:first-of-type {
+		gap: 1rem;
+	}
+	sec_i_8_body>div:first-child ul li {
+		width: 130px;
+	}
+}
+
+@media (max-width: 375px) {
+	.sec_i_3_right .carousel-indicators [data-bs-target]:nth-child(5) {
+		display: none;
+	}
+	.ftr_btm_strap .container {
+		padding: 1rem;
+	}
+	.ftr_btm_strap .para {
+		text-align: center;
+	}
+	#scrollimage .MS-content{
+		margin: 0 !important;
+	}
+	.slider-text{
+		text-align: left !important;
+	}
+	.slider-text p{
+		text-align: left !important;
+	}
+	.main-tab{
+		margin-bottom: 130px;
+	}
+	.text-tab p{
+		line-height:20px;
+	}
+}
+
+@media (max-width: 350px) {
+	#carouselAHIndexBanner .carousel-item>img {
+		height: 250px;
+	}
+	#scrollimage .MS-content{
+		margin: 0 !important;
+	}
+}
+@media(max-width:320px){
+	.slider-text{
+		padding: 0 !important;
+		width: 115px;
+	}
+	.overview-image-section{
+		margin-bottom:-50px;
+	}
+	.main-tab{
+		margin-bottom: 130px;
+	}
+	.flex-tab{
+		border-bottom:solid 1px #ccc;
+	}
+	.text-tab{
+		padding: 10px 2px;
+	}
+}
